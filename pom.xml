@@ -58,13 +58,13 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>true</uniqueVersion>
-      <id>incentro-releases</id>
+      <id>incentro</id>
       <name>Incentro Releases</name>
       <url>http://developer.incentro.com/nexus/content/repositories/hippo-releases</url>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>incentro-snapshots</id>
+      <id>incentro</id>
       <name>Incentro Snapshots</name>
       <url>http://developer.incentro.com/nexus/content/repositories/hippo-snapshots</url>
     </snapshotRepository>
