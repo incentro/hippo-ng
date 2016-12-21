@@ -1,0 +1,21 @@
+# IntelliJ
+.idea
+**.iml
+**.ipr
+**.iws
+
+# NetBeans
+nb-configuration.xml
+
+# Eclipse
+.project
+.settings
+.classpath
+
+# Maven
+target
+overlays
+
+
+**rebel.xml
+local_repo/
